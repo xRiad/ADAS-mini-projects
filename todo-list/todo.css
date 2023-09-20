@@ -1,0 +1,13 @@
+.fa-xmark:hover {
+    color: red;
+    cursor: pointer;
+}
+.remove-all {
+    cursor: pointer;
+}
+.remove-all:hover {
+    color: red;
+}
+.elem {
+    display: flex;
+}
